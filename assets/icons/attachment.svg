@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+  <g transform="rotate(42 12 12)">
+    <path fill-rule="evenodd" fill="var(--as-icon-primary, currentColor)" d="M8.5 8.5V5.7A3.8 3.8 0 0 1 16.1 5.7V17.2A5.1 5.1 0 0 1 5.9 17.2V8.5H8.5V17.2A2.5 2.5 0 0 0 13.5 17.2V5.7A1.2 1.2 0 0 0 11.1 5.7V8.5Z"/>
+    <path fill-rule="evenodd" fill="var(--as-icon-secondary, currentColor)" opacity="var(--as-icon-secondary-opacity, 0.6)" d="M8.5 8.5H11.1V16.5H8.5Z"/>
+  </g>
+</svg>

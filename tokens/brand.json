@@ -1,0 +1,90 @@
+{
+  "version": "0.1.0",
+  "status": "adopted",
+  "colors": {
+    "ink": "#17121B",
+    "paper": "#FFFCFF",
+    "signal": "#C121D3",
+    "link": "#8C169B",
+    "glow": "#F2A2FC",
+    "mist": "#F5EDF7",
+    "panel": "#251C2B",
+    "gray": "#62566A",
+    "silver": "#CDBED3"
+  },
+  "themes": {
+    "light": {
+      "background": "#FFFCFF",
+      "foreground": "#17121B",
+      "card": "#F5EDF7",
+      "card-foreground": "#17121B",
+      "popover": "#FFFFFF",
+      "popover-foreground": "#17121B",
+      "primary": "#8C169B",
+      "primary-foreground": "#FFFFFF",
+      "secondary": "#F5EDF7",
+      "secondary-foreground": "#17121B",
+      "muted": "#F5EDF7",
+      "muted-foreground": "#62566A",
+      "accent": "#F6DAFA",
+      "accent-foreground": "#8C169B",
+      "destructive": "#AA2445",
+      "destructive-foreground": "#FFFFFF",
+      "success": "#196648",
+      "success-foreground": "#FFFFFF",
+      "border": "#DDD0E0",
+      "input": "#86758E",
+      "ring": "#8C169B"
+    },
+    "dark": {
+      "background": "#17121B",
+      "foreground": "#FFFCFF",
+      "card": "#251C2B",
+      "card-foreground": "#FFFCFF",
+      "popover": "#251C2B",
+      "popover-foreground": "#FFFCFF",
+      "primary": "#F2A2FC",
+      "primary-foreground": "#17121B",
+      "secondary": "#251C2B",
+      "secondary-foreground": "#FFFCFF",
+      "muted": "#251C2B",
+      "muted-foreground": "#CDBED3",
+      "accent": "#46274F",
+      "accent-foreground": "#F2A2FC",
+      "destructive": "#FF9DB4",
+      "destructive-foreground": "#17121B",
+      "success": "#8EE2B6",
+      "success-foreground": "#17121B",
+      "border": "#49374F",
+      "input": "#A991B0",
+      "ring": "#F2A2FC"
+    }
+  },
+  "typography": {
+    "display": "Space Grotesk",
+    "body": "IBM Plex Sans"
+  },
+  "scales": {
+    "spacing": [
+      4,
+      8,
+      12,
+      16,
+      24,
+      32,
+      48,
+      64,
+      96
+    ],
+    "radius": [
+      0,
+      4,
+      8
+    ],
+    "motion": [
+      120,
+      180,
+      240
+    ]
+  }
+}

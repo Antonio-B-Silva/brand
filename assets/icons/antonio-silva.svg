@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+  <g transform="translate(2 3.44) scale(.03095975) translate(-222 -225)">
+  <path d="M429 404 L638 772 H565 L429 537 L377 629 H304 Z M289 650 H451 L486 711 H332 L296 772 H222 Z" fill="var(--as-icon-primary, currentColor)"/>
+  <path d="M541 225 L700 494 H626 L541 351 L515 396 L591 524 H718 L868 778 H666 L569 615 H640 L700 714 H752 L680 586 H551 L439 396 Z" fill="var(--as-icon-secondary, #C121D3)"/>
+  </g>
+</svg>

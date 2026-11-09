@@ -1,0 +1,706 @@
+{
+  "version": "0.4.3",
+  "viewBox": "0 0 24 24",
+  "icons": [
+    {
+      "category": "Arrows",
+      "id": "arrow-right",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/arrow-right.svg"
+    },
+    {
+      "category": "Arrows",
+      "id": "arrow-left",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/arrow-left.svg"
+    },
+    {
+      "category": "Arrows",
+      "id": "arrow-up",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/arrow-up.svg"
+    },
+    {
+      "category": "Arrows",
+      "id": "arrow-down",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/arrow-down.svg"
+    },
+    {
+      "category": "Arrows",
+      "id": "arrow-up-right",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/arrow-up-right.svg"
+    },
+    {
+      "category": "Alerts",
+      "id": "alert",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/alert.svg"
+    },
+    {
+      "category": "Alerts",
+      "id": "info",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/info.svg"
+    },
+    {
+      "category": "Alerts",
+      "id": "bell",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/bell.svg"
+    },
+    {
+      "category": "Brands",
+      "id": "antonio-silva",
+      "kind": "brand",
+      "status": "verified-structure",
+      "file": "assets/icons/antonio-silva.svg"
+    },
+    {
+      "category": "Brands",
+      "id": "mailer",
+      "kind": "brand",
+      "status": "verified-structure",
+      "file": "assets/icons/mailer.svg"
+    },
+    {
+      "category": "Buttons",
+      "id": "plus",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/plus.svg"
+    },
+    {
+      "category": "Buttons",
+      "id": "minus",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/minus.svg"
+    },
+    {
+      "category": "Buttons",
+      "id": "close",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/close.svg"
+    },
+    {
+      "category": "Buttons",
+      "id": "check",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/check.svg"
+    },
+    {
+      "category": "Buttons",
+      "id": "menu",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/menu.svg"
+    },
+    {
+      "category": "Code",
+      "id": "code",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/code.svg"
+    },
+    {
+      "category": "Code",
+      "id": "terminal",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/terminal.svg"
+    },
+    {
+      "category": "Code",
+      "id": "branch",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/branch.svg"
+    },
+    {
+      "category": "Chevron",
+      "id": "chevron-right",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/chevron-right.svg"
+    },
+    {
+      "category": "Chevron",
+      "id": "chevron-left",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/chevron-left.svg"
+    },
+    {
+      "category": "Chevron",
+      "id": "chevron-up",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/chevron-up.svg"
+    },
+    {
+      "category": "Chevron",
+      "id": "chevron-down",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/chevron-down.svg"
+    },
+    {
+      "category": "Chevron",
+      "id": "chevrons-right",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/chevrons-right.svg"
+    },
+    {
+      "category": "Design",
+      "id": "layers",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/layers.svg"
+    },
+    {
+      "category": "Design",
+      "id": "cube",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/cube.svg"
+    },
+    {
+      "category": "Design",
+      "id": "grid",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/grid.svg"
+    },
+    {
+      "category": "Design",
+      "id": "pen",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/pen.svg"
+    },
+    {
+      "category": "Device",
+      "id": "monitor",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/monitor.svg"
+    },
+    {
+      "category": "Device",
+      "id": "phone",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/phone.svg"
+    },
+    {
+      "category": "Device",
+      "id": "laptop",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/laptop.svg"
+    },
+    {
+      "category": "Files",
+      "id": "file",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/file.svg"
+    },
+    {
+      "category": "Files",
+      "id": "folder",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/folder.svg"
+    },
+    {
+      "category": "Files",
+      "id": "download",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/download.svg"
+    },
+    {
+      "category": "Files",
+      "id": "upload",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/upload.svg"
+    },
+    {
+      "category": "Multimedia",
+      "id": "play",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/play.svg"
+    },
+    {
+      "category": "Multimedia",
+      "id": "pause",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/pause.svg"
+    },
+    {
+      "category": "Multimedia",
+      "id": "image",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/image.svg"
+    },
+    {
+      "category": "Multimedia",
+      "id": "volume",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/volume.svg"
+    },
+    {
+      "category": "Others",
+      "id": "send",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/send.svg"
+    },
+    {
+      "category": "Others",
+      "id": "search",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/search.svg"
+    },
+    {
+      "category": "Others",
+      "id": "external-link",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/external-link.svg"
+    },
+    {
+      "category": "Others",
+      "id": "settings",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/settings.svg"
+    },
+    {
+      "id": "arrow-down-left",
+      "category": "Arrows",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/arrow-down-left.svg"
+    },
+    {
+      "id": "swap",
+      "category": "Arrows",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/swap.svg"
+    },
+    {
+      "id": "refresh",
+      "category": "Arrows",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/refresh.svg"
+    },
+    {
+      "id": "undo",
+      "category": "Arrows",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/undo.svg"
+    },
+    {
+      "id": "error",
+      "category": "Alerts",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/error.svg"
+    },
+    {
+      "id": "success",
+      "category": "Alerts",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/success.svg"
+    },
+    {
+      "id": "help",
+      "category": "Alerts",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/help.svg"
+    },
+    {
+      "id": "bell-off",
+      "category": "Alerts",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/bell-off.svg"
+    },
+    {
+      "id": "more-horizontal",
+      "category": "Buttons",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/more-horizontal.svg"
+    },
+    {
+      "id": "more-vertical",
+      "category": "Buttons",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/more-vertical.svg"
+    },
+    {
+      "id": "toggle",
+      "category": "Buttons",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/toggle.svg"
+    },
+    {
+      "id": "filter",
+      "category": "Buttons",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/filter.svg"
+    },
+    {
+      "id": "sort",
+      "category": "Buttons",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/sort.svg"
+    },
+    {
+      "id": "edit",
+      "category": "Buttons",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/edit.svg"
+    },
+    {
+      "id": "bug",
+      "category": "Code",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/bug.svg"
+    },
+    {
+      "id": "database",
+      "category": "Code",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/database.svg"
+    },
+    {
+      "id": "server",
+      "category": "Code",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/server.svg"
+    },
+    {
+      "id": "git-commit",
+      "category": "Code",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/git-commit.svg"
+    },
+    {
+      "id": "chevrons-left",
+      "category": "Chevron",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/chevrons-left.svg"
+    },
+    {
+      "id": "expand",
+      "category": "Chevron",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/expand.svg"
+    },
+    {
+      "id": "palette",
+      "category": "Design",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/palette.svg"
+    },
+    {
+      "id": "layout",
+      "category": "Design",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/layout.svg"
+    },
+    {
+      "id": "crop",
+      "category": "Design",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/crop.svg"
+    },
+    {
+      "id": "tablet",
+      "category": "Device",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/tablet.svg"
+    },
+    {
+      "id": "wifi",
+      "category": "Device",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/wifi.svg"
+    },
+    {
+      "id": "battery",
+      "category": "Device",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/battery.svg"
+    },
+    {
+      "id": "copy",
+      "category": "Files",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/copy.svg"
+    },
+    {
+      "id": "clipboard",
+      "category": "Files",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/clipboard.svg"
+    },
+    {
+      "id": "trash",
+      "category": "Files",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/trash.svg"
+    },
+    {
+      "id": "archive",
+      "category": "Files",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/archive.svg"
+    },
+    {
+      "id": "attachment",
+      "category": "Files",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/attachment.svg"
+    },
+    {
+      "id": "save",
+      "category": "Files",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/save.svg"
+    },
+    {
+      "id": "stop",
+      "category": "Multimedia",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/stop.svg"
+    },
+    {
+      "id": "mic",
+      "category": "Multimedia",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/mic.svg"
+    },
+    {
+      "id": "camera",
+      "category": "Multimedia",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/camera.svg"
+    },
+    {
+      "id": "video",
+      "category": "Multimedia",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/video.svg"
+    },
+    {
+      "id": "volume-off",
+      "category": "Multimedia",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/volume-off.svg"
+    },
+    {
+      "id": "home",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/home.svg"
+    },
+    {
+      "id": "user",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/user.svg"
+    },
+    {
+      "id": "users",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/users.svg"
+    },
+    {
+      "id": "mail",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/mail.svg"
+    },
+    {
+      "id": "calendar",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/calendar.svg"
+    },
+    {
+      "id": "clock",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/clock.svg"
+    },
+    {
+      "id": "lock",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/lock.svg"
+    },
+    {
+      "id": "unlock",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/unlock.svg"
+    },
+    {
+      "id": "eye",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/eye.svg"
+    },
+    {
+      "id": "eye-off",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/eye-off.svg"
+    },
+    {
+      "id": "link",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/link.svg"
+    },
+    {
+      "id": "share",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/share.svg"
+    },
+    {
+      "id": "star",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/star.svg"
+    },
+    {
+      "id": "heart",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/heart.svg"
+    },
+    {
+      "id": "bookmark",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/bookmark.svg"
+    },
+    {
+      "id": "chat",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/chat.svg"
+    },
+    {
+      "id": "globe",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/globe.svg"
+    },
+    {
+      "id": "map-pin",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/map-pin.svg"
+    },
+    {
+      "id": "shopping-cart",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/shopping-cart.svg"
+    },
+    {
+      "id": "credit-card",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/credit-card.svg"
+    },
+    {
+      "id": "log-in",
+      "category": "Others",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/log-in.svg"
+    }
+  ]
+}

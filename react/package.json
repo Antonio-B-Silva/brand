@@ -1,0 +1,23 @@
+{
+  "name": "@antonio-silva/icons",
+  "version": "0.4.3",
+  "private": true,
+  "type": "module",
+  "sideEffects": false,
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "peerDependencies": {
+    "react": "^18.0.0 || ^19.0.0"
+  },
+  "scripts": {
+    "build": "python build.py"
+  }
+}

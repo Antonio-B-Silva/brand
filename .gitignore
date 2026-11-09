@@ -1,0 +1,4 @@
+node_modules/
+react/dist/
+react/*.tgz
+__pycache__/

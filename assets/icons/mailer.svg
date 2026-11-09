@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+  <g transform="translate(2 2) scale(.12820513) translate(-22 -23)">
+  <path d="M22 96 178 28 92 104Z" fill="var(--as-icon-primary, #C121D3)"/>
+  <path d="M178 28 98 112 114 174Z" fill="var(--as-icon-secondary, #C121D3)" opacity="var(--as-icon-secondary-opacity, 0.6)"/>
+  </g>
+</svg>

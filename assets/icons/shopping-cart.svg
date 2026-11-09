@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" aria-hidden="true">
+  <path fill-rule="evenodd" fill="var(--as-icon-primary, currentColor)" d="M5 6H22L19 16H8Z M9 9L10 13H17L18 9Z"/>
+  <path fill-rule="evenodd" fill="var(--as-icon-secondary, currentColor)" opacity="var(--as-icon-secondary-opacity, 0.6)" d="M1 2H6L8 6H5L4 5H1Z M8 18H12V22H8Z M16 18H20V22H16Z"/>
+</svg>
