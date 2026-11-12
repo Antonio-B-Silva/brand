@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>as-credit - demonstração</title>
+<style>
+  body { margin: 0; font-family: system-ui, sans-serif; }
+  main { padding: 24px; min-height: 260px; }
+  footer { display: flex; justify-content: space-between; align-items: center; gap: 16px; padding: 16px 24px; }
+  .light { background: #FFFCFF; color: #17121B; border-top: 1px solid #DDD0E0; }
+  .dark { background: #17121B; color: #FFFCFF; }
+</style>
+</head>
+<body>
+<!-- Abra com ?open para ver os menus já abertos. -->
+<main><h1>as-credit</h1><p>Rodapé claro e rodapé escuro. O menu acompanha a cor do texto ao redor.</p></main>
+<footer class="light">
+  <span>© 2026 Site do cliente</span>
+  <as-credit><a href="https://antoniobsilva.com.br/">Desenvolvido por Antonio Silva</a></as-credit>
+</footer>
+<main></main>
+<footer class="dark">
+  <as-credit align="start"><a href="https://antoniobsilva.com.br/">Desenvolvido por Antonio Silva</a></as-credit>
+  <span>© 2026 Site do cliente</span>
+</footer>
+<script src="as-credit.js"></script>
+<script>
+  if (location.search.includes("open")) document.querySelectorAll("as-credit").forEach((el) => el.toggle(true));
+</script>
+</body>
+</html>

@@ -8,6 +8,7 @@
     <a href="icons.html">Catálogo de ícones</a>
     · <a href="research.md">Pesquisa de referência</a>
     · <a href="react/README.md">Biblioteca React</a>
+    · <a href="credit/README.md">Crédito de rodapé</a>
   </p>
 </div>
 
@@ -97,6 +98,7 @@ Consulte o [contrato de consumo](icons.md) para aplicar cor por plano, opacidade
 | `tokens/` | Cores, temas e escalas em CSS e JSON |
 | `icons.json` e `icons.html` | Inventário e catálogo visual |
 | `react/` | Gerador, contrato e configuração do pacote local |
+| `credit/` | Crédito "Desenvolvido por" para o rodapé dos sites ([uso](credit/README.md)) |
 
 ## Qualidade
 
