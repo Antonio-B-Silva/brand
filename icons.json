@@ -1,5 +1,5 @@
 {
-  "version": "0.4.3",
+  "version": "0.5.0",
   "viewBox": "0 0 24 24",
   "icons": [
     {
@@ -701,6 +701,293 @@
       "kind": "duotone",
       "status": "verified-structure",
       "file": "assets/icons/log-in.svg"
+    },
+    {
+      "category": "Files",
+      "id": "work-order",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/work-order.svg"
+    },
+    {
+      "category": "Workflow",
+      "id": "work-order-add",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/work-order-add.svg"
+    },
+    {
+      "category": "Logistics",
+      "id": "intake",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/intake.svg"
+    },
+    {
+      "category": "Workflow",
+      "id": "task-start",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/task-start.svg"
+    },
+    {
+      "category": "Workflow",
+      "id": "task-complete",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/task-complete.svg"
+    },
+    {
+      "category": "Logistics",
+      "id": "handoff",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/handoff.svg"
+    },
+    {
+      "category": "Files",
+      "id": "delivery-document",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/delivery-document.svg"
+    },
+    {
+      "category": "Device",
+      "id": "equipment",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/equipment.svg"
+    },
+    {
+      "category": "Device",
+      "id": "desktop-pc",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/desktop-pc.svg"
+    },
+    {
+      "category": "Device",
+      "id": "printer",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/printer.svg"
+    },
+    {
+      "category": "Device",
+      "id": "peripherals",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/peripherals.svg"
+    },
+    {
+      "category": "Device",
+      "id": "industrial-machine",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/industrial-machine.svg"
+    },
+    {
+      "category": "Hardware",
+      "id": "cpu",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/cpu.svg"
+    },
+    {
+      "category": "Hardware",
+      "id": "gpu",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/gpu.svg"
+    },
+    {
+      "category": "Hardware",
+      "id": "ram",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/ram.svg"
+    },
+    {
+      "category": "Hardware",
+      "id": "ssd",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/ssd.svg"
+    },
+    {
+      "category": "Hardware",
+      "id": "motherboard",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/motherboard.svg"
+    },
+    {
+      "category": "Hardware",
+      "id": "power-supply",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/power-supply.svg"
+    },
+    {
+      "category": "Hardware",
+      "id": "hard-drive",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/hard-drive.svg"
+    },
+    {
+      "category": "Tools",
+      "id": "cleaning",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/cleaning.svg"
+    },
+    {
+      "category": "Tools",
+      "id": "repair",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/repair.svg"
+    },
+    {
+      "category": "Tools",
+      "id": "assembly",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/assembly.svg"
+    },
+    {
+      "category": "Tools",
+      "id": "part-replacement",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/part-replacement.svg"
+    },
+    {
+      "category": "Tools",
+      "id": "functional-test",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/functional-test.svg"
+    },
+    {
+      "category": "Tools",
+      "id": "diagnosis",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/diagnosis.svg"
+    },
+    {
+      "category": "Tools",
+      "id": "inspection",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/inspection.svg"
+    },
+    {
+      "category": "Alerts",
+      "id": "equipment-fault",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/equipment-fault.svg"
+    },
+    {
+      "category": "Files",
+      "id": "checklist",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/checklist.svg"
+    },
+    {
+      "category": "Files",
+      "id": "technical-report",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/technical-report.svg"
+    },
+    {
+      "category": "People",
+      "id": "customer",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/customer.svg"
+    },
+    {
+      "category": "People",
+      "id": "technician",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/technician.svg"
+    },
+    {
+      "category": "Scheduling",
+      "id": "appointment",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/appointment.svg"
+    },
+    {
+      "category": "Device",
+      "id": "remote-access",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/remote-access.svg"
+    },
+    {
+      "category": "Communication",
+      "id": "support",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/support.svg"
+    },
+    {
+      "category": "Finance",
+      "id": "quote",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/quote.svg"
+    },
+    {
+      "category": "Security",
+      "id": "warranty",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/warranty.svg"
+    },
+    {
+      "category": "Logistics",
+      "id": "spare-parts",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/spare-parts.svg"
+    },
+    {
+      "category": "Logistics",
+      "id": "inventory",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/inventory.svg"
+    },
+    {
+      "category": "Workflow",
+      "id": "activity-history",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/activity-history.svg"
+    },
+    {
+      "category": "Files",
+      "id": "catalog",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/catalog.svg"
+    },
+    {
+      "category": "Finance",
+      "id": "finance-ledger",
+      "kind": "duotone",
+      "status": "verified-structure",
+      "file": "assets/icons/finance-ledger.svg"
     }
   ]
 }

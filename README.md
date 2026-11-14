@@ -14,7 +14,7 @@
 
 <p align="center">
   <img alt="Manual 0.3.0" src="https://img.shields.io/badge/Manual-0.3.0-8C169B?style=for-the-badge" />
-  <img alt="100 SVGs" src="https://img.shields.io/badge/SVG-100%20%C3%ADcones-17121B?style=for-the-badge" />
+  <img alt="141 SVGs" src="https://img.shields.io/badge/SVG-141%20%C3%ADcones-17121B?style=for-the-badge" />
   <img alt="React 18 e 19" src="https://img.shields.io/badge/React-18%20%7C%2019-087EA4?style=for-the-badge" />
 </p>
 
@@ -36,12 +36,12 @@
 
 Este repositório reúne os arquivos de identidade institucional da Antonio Silva.
 O manual documenta o monograma AS, as assinaturas, a paleta, a tipografia e a voz da marca.
-O catálogo inclui 100 ícones em 11 categorias, com uma descrição de uso em português por ícone.
+O catálogo inclui 141 ícones em 20 categorias, com uma descrição de uso em português por ícone.
 
 ### Estado dos materiais
 
 - **Manual 0.3.0**. Identidade vigente. O lema permanece em avaliação.
-- **Ícones 0.4.3**. Pack de 100 ícones com refinamentos de curvas e legibilidade nos símbolos revisados.
+- **Ícones 0.5.0**. Inclui 41 ícones novos em categorias compartilhadas. Consulte o [inventário e a aplicação no System Fix](system-fix.md).
 - **Fontes**. Space Grotesk para títulos e assinatura. IBM Plex Sans para leitura e interface.
 
 ## Tecnologias
@@ -72,7 +72,7 @@ npm pack
 No projeto consumidor, instale o arquivo gerado:
 
 ```bash
-npm install /caminho/para/-brand/react/antonio-silva-icons-0.4.3.tgz
+npm install /caminho/para/-brand/react/antonio-silva-icons-0.5.0.tgz
 ```
 
 ## Uso
@@ -92,7 +92,7 @@ Consulte o [contrato de consumo](icons.md) para aplicar cor por plano, opacidade
 | Caminho | Conteúdo |
 | --- | --- |
 | `manual.html` e o PDF | Manual editável e versão para leitura |
-| `assets/icons/` | 100 SVGs do catálogo |
+| `assets/icons/` | 141 SVGs do catálogo |
 | `assets/` | Monogramas, assinaturas, avatar e grid |
 | `fonts/` | Arquivos TTF e licenças |
 | `tokens/` | Cores, temas e escalas em CSS e JSON |
